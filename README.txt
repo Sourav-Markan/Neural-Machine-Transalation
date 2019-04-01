@@ -1,4 +1,4 @@
-Here is the implementation of NMT for English-Hindi 
+# Implementation of NMT for English-Hindi 
 I have implemented two models
 1. Sequence to sequence model(Keras)
 2. Sequence to sequence with alignment(Tensorflow)
